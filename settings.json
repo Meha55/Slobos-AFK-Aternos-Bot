@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "yannleporc.aternos.me",
+    "ip": "chiente.aternos.me",
     "port": 50130,
     "version": "1.21.10",
     "try-creative": false
